@@ -2,7 +2,7 @@
 
 This repository contains the source code and experiment setup of ***PBiLoss*** paper:
 
-> **PBiLoss: Popularity Bias Loss to Improve Fairness in Recommender Systems**
+> **[PBiLoss: Popularity-Aware Regularization to Improve Fairness in Graph-Based Recommender Systems](https://arxiv.org/abs/2507.19067)**
 
 ## 📌 Overview
 
